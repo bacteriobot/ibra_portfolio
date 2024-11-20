@@ -7,26 +7,27 @@
 ---
 
 ## 👋 About Me
-Hi! I'm **[Ibrahim Habibu]**, an enthusiastic **[Data Scientist]** passionate about Data
+Hi! I'm **Ibrahim Habibu**, an enthusiastic **Data Scientist** passionate about Data
 
 ## 👩‍🔬💻 Interests & Specialties
 
-**["As a microbiologist turned data scientist, I am passionate about leveraging data to drive impactful decisions in health and clinical settings. My work focuses on analyzing and interpreting health-related data to improve outcomes and support evidence-based decision-making.
+As a microbiologist turned data scientist, I am passionate about leveraging data to drive impactful decisions in health and clinical settings. My work focuses on analyzing and interpreting health-related data to improve outcomes and support evidence-based decision-making.
 
-🔬 Microbiology Expertise: Extensive background in studying microorganisms and their effects on health.
-📊 Data Science Applications: Skilled in using data to identify trends, make predictions, and solve complex clinical problems.
-🌍 Goal: Bridge the gap between biological sciences and data analysis to create innovative solutions for global health challenges.
-I am particularly interested in:
+#### 🔬 Microbiology Expertise: Extensive background in studying microorganisms and their effects on health.
+#### 📊 Data Science Applications: Skilled in using data to identify trends, make predictions, and solve complex clinical problems.
+#### 🌍 Goal: Bridge the gap between biological sciences and data analysis to create innovative solutions for global health challenges.
 
-Clinical Decision Support: Using predictive modeling to assist healthcare professionals.
-Health Data Analysis: Turning raw health data into actionable insights.
-Public Health: Analyzing trends to address global health concerns effectively."].**
+- I am particularly interested in:
 
-I bring **[extensive experience in Clinical Medicine, with a Diploma in Clinical Medicine and hands-on expertise in health facilities, where I have treated patients and provided care for clients. My background equips me with a deep understanding of healthcare systems, clinical workflows, and patient-centered solutions.I have a knack for integrating medical knowledge with data science to uncover insights, improve patient outcomes, and support evidence-based decision-making.]**
+#### Clinical Decision Support: Using predictive modeling to assist healthcare professionals.
+#### Health Data Analysis: Turning raw health data into actionable insights.
+#### Public Health: Analyzing trends to address global health concerns effectively."].**
+---
+I bring **extensive experience in Clinical Medicine, with a Diploma in Clinical Medicine and hands-on expertise in health facilities, where I have treated patients and provided care for clients. My background equips me with a deep understanding of healthcare systems, clinical workflows, and patient-centered solutions.I have a knack for integrating medical knowledge with data science to uncover insights, improve patient outcomes, and support evidence-based decision-making.**
 
-- 🌍 Based in **[Zanzibar, Tanzania]**
+- 🌍 Based in **Zanzibar, Tanzania**
   
-- 🎓 **[Education]**
+- 🎓 **Education**
 Bachelor of Science in Microbiology
 Moi University | Sep 2019 – Dec 2023
 
@@ -41,7 +42,7 @@ Lord Baden Powell Memorial High School, Tanzania | Jan 2013 – Dec 2013
 
 Primary and Early Secondary (Std I – Form II) | Jan 2004 – Dec 2012
 
-- 💼 Currently working as **[Self-employed]**
+- 💼 Currently working as **Self-employed**
 - 💡 Always learning about health data analytics, clinical decision support systems, predictive modeling, machine learning applications in healthcare, and microbiological research advancements.
 
 ---
@@ -49,9 +50,9 @@ Primary and Early Secondary (Std I – Form II) | Jan 2004 – Dec 2012
 ## 🛠 Skills
 Here are some of the tools and technologies I work with:
 
-- **Languages**: [Python]
-- **Tools**: [Git]
-- **Other**: [Data Analysis]
+- **Languages**: Python
+- **Tools**: Git
+- **Other**: Data Analysis
 
 ---
 
