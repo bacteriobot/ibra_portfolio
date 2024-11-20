@@ -1,81 +1,94 @@
-# ibra.github.io
+# Ibrahim Mohamed Habibu
 
 ### Data Scientist | Microbiologist
+[![LinkedIn](https://img.shields.io/badge/LinkediIn-Profile-blue)](https://www.linkedin.com/in/ibrahim-habibu-126041113/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](github.com/bacteriobot)
 
-Ibrahim Mohamed Habibu
-E-mail: ibramed96@gmail.com
-Phone: +255776682768
-Address: Jitimai, 369, Zanzibar. Tanzania
+---
 
-### CARRIER OBJECTIVES AND QUALIFICATIONS:
+## 👋 About Me
+Hi! I'm **[Ibrahim Habibu]**, an enthusiastic **[Data Scientist]** passionate about Data
 
-To be a highly qualified Microbiologist with experience in clinical and industrial microbiology, to
-perform clinical laboratory projects, quality Check-ups, identifying microorganisms causing
-infections, interpreting data, writing research papers, formulating strategies to prevent spread
-of infections.
+## 👩‍🔬💻 Interests & Specialties
 
-### WORK EXPERIENCE & INTERNSHIP:
+**["As a microbiologist turned data scientist, I am passionate about leveraging data to drive impactful decisions in health and clinical settings. My work focuses on analyzing and interpreting health-related data to improve outcomes and support evidence-based decision-making.
 
-_Cindy Nutrifood_         January 2024 – Present
-Assistant Sales Officer & Advisor – Quality Control Officer
+🔬 Microbiology Expertise: Extensive background in studying microorganisms and their effects on health.
+📊 Data Science Applications: Skilled in using data to identify trends, make predictions, and solve complex clinical problems.
+🌍 Goal: Bridge the gap between biological sciences and data analysis to create innovative solutions for global health challenges.
+I am particularly interested in:
 
-I worked as quality control officer overseeing the production process and assistant to sales
-officer and also an advisor of the company.
+Clinical Decision Support: Using predictive modeling to assist healthcare professionals.
+Health Data Analysis: Turning raw health data into actionable insights.
+Public Health: Analyzing trends to address global health concerns effectively."].**
 
-_Kenya Medical Research Institute (KEMRI), KE_    January – April 2023
-Attachee
+I bring **[extensive experience in Clinical Medicine, with a Diploma in Clinical Medicine and hands-on expertise in health facilities, where I have treated patients and provided care for clients. My background equips me with a deep understanding of healthcare systems, clinical workflows, and patient-centered solutions.I have a knack for integrating medical knowledge with data science to uncover insights, improve patient outcomes, and support evidence-based decision-making.]**
 
-I worked in two departments; Salmonella Antimicrobial Surveillance Unit (SASU 2), I was able
-to participate in two ongoing projects at that time namely; NEOBAC and CINAMR and in Food
-handler’s lab (LSP) doing Widal test, Phlebotomy, Stool analysis and Urinalysis.
+- 🌍 Based in **[Zanzibar, Tanzania]**
+  
+- 🎓 **[Education]**
+Bachelor of Science in Microbiology
+Moi University | Sep 2019 – Dec 2023
 
-_Indiana University Graduate School, US_     24 June 2022 — 20 August 2022
-Intern Researcher
+Diploma in Clinical Medicine
+State University of Zanzibar (SUZA) | 2015 – 2018
 
-My Research was on “Molecular Analysis of Pterin Dependent Regulation for Surface
-Attachment in Agrobacterium tumefaciens”
+Secondary Education (O-Level)
+High-View International School, Tanzania | Jan 2014 – Nov 2014
 
-_National Blood Transfusion Services, Zanzibar_  July 2019
-Volunteer Health Professional
+Secondary Education (O-Level, Form III)
+Lord Baden Powell Memorial High School, Tanzania | Jan 2013 – Dec 2013
 
-I volunteered in one-week Blood transfusion Bonanza as Health Professional, preparing
-clients for the Blood transfusion process by taking their vital signs and counselling thembefore and after the process
+Primary and Early Secondary (Std I – Form II) | Jan 2004 – Dec 2012
 
-_Vitongoji Cottage Hospital,Zanzibar_        1 July 2018 — 31 July 2018
-Clinical Officer - (Internship)
+- 💼 Currently working as **[Self-employed]**
+- 💡 Always learning about health data analytics, clinical decision support systems, predictive modeling, machine learning applications in healthcare, and microbiological research advancements.
 
-Worked as Clinical Officer - working at Outpatient Department (OPD), with limited
-diagnostics tools (Ultrasonography machine and X ray), treatment was mainly Clinical
-(Sign/Symptoms and Physical Examination)
+---
 
-_Mnazi Mmoja Referral Hospital, Zanzibar _     2015 — 2018
-Trainee Student
+## 🛠 Skills
+Here are some of the tools and technologies I work with:
 
-More than 6 Months of Clinical rotation
-Clinical rotations were one or two months of each semester, rotations were on different
-department of the Hospital - Surgery, Internal Medicine, Obstetrics and Gynaecology,
-Paediatrics, ENT, Pathology Labs, Ophthalmology and Optometry
+- **Languages**: [Python]
+- **Tools**: [Git]
+- **Other**: [Data Analysis]
 
-### EDUCATION:
+---
 
-Bachelor of Science in Microbiology       Moi University                                            Sep 2019 — Dec 2023
-Diploma in Clinical Medicine              State University of Zanzibar - SUZA                       2015 — 2018
-Secondary Education (O-level) -Form IV    High-View International School, TZ                        Jan 2014 — Nov 2014
-Secondary Education & Primary Education (Std I -Form II)   High-View International School, TZ       Jan 2004 — Dec 2012
-Secondary Education (O-level) - Form III  Lord Baden Powell Memorial High School, TZ                Jan 2013 — Dec 2013
+## 🌟 Projects
+Here are some of my notable projects:
 
-### INTERESTS:
-Microbiology Lab works, Computers, Participation in community health development
-programs, Team work
+1. **[Project Name](project-link)**  
+   _[Short description of the project and its purpose]._  
+   - **Technologies used**: [list technologies]  
+   - **Highlights**: [e.g., Achieved 50% performance improvement]
 
-### LICENSES:
+2. **[Another Project Name](project-link)**  
+   _[Short description of the project]._  
+   - **Technologies used**: [list technologies]  
+   - **Highlights**: [e.g., Built for 1,000+ users]
+
+---
+
+## 🌐 Connect with Me
+- LinkedIn: [Ibrahim Habibu](https://www.linkedin.com/in/ibrahim-habibu-126041113/)  
+- Email: [ibramed96@gmail.com](mailto:ibramed96@gmail.com)  
+- X (Twitter): [@ibramed_](https://twitter.com/ibramed_)
+  
+---
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 📄 License
 - License to practice as a Clinical Officer - Zanzibar Medical Council: Certificate of
   Permanent Registration with registration number (P/CO/0513)
 - Driving License - The Revolutionary Government of Zanzibar: Z- 108759739
 
+---
 
-### REFEREES:
-Dr. J. Makatiani, Department of Biological Sciences, Moi University - jmakatiani@gmail.com
-Dr. Billy A. Makumba,
-billymakumba@gmail.com
-Department of Biological Sciences, Moi University
+**Thank you for visiting!** 🚀
+
