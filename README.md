@@ -59,15 +59,14 @@ Here are some of the tools and technologies I work with:
 ## 🌟 Projects
 Here are some of my notable projects:
 
-1. **[Project Name](project-link)**  
-   _[Short description of the project and its purpose]._  
-   - **Technologies used**: [list technologies]  
-   - **Highlights**: [e.g., Achieved 50% performance improvement]
+1. **[Upskill]([Slide Deck](https://drive.google.com/file/d/19miRLMaT7O4tq8TblhDIrYyB5hSyy-xR/view?usp=sharing))**
+   **([Pitch Presentation on YouTube]((https://youtu.be/2GYbD2pN-Qo)))**   
+   _[Africa’s Future-Ready Education Ecosystem
+A hybrid digital and experiential learning model that personalizes education, nurtures talent, and equips African youth to tackle real-world challenges.]._  
+   - **Technologies used**: [Canva, Loom]  
+   - **Highlights**: [e.g., We did not start app building phase]
 
-2. **[Another Project Name](project-link)**  
-   _[Short description of the project]._  
-   - **Technologies used**: [list technologies]  
-   - **Highlights**: [e.g., Built for 1,000+ users]
+
 
 ---
 
