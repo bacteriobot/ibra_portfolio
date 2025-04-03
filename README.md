@@ -3,7 +3,8 @@
 ### Data Scientist | Microbiologist
 [![LinkedIn](https://img.shields.io/badge/LinkediIn-Profile-blue)](https://www.linkedin.com/in/ibrahim-habibu-126041113/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](github.com/bacteriobot)
-[![Download Portfolio](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge&logo=adobe)](https://github.com/bacteriobot/ibra_portfolio/raw/main/portfolio.pdf)
+[📄 Download Portfolio as PDF](javascript:window.print())
+
 
 ---
 
